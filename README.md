@@ -1,6 +1,6 @@
 # Dockerized Web Application Deployment on AWS
 
-This project deploys a containerized web application on Amazon Web Services (AWS) using Docker. The deployment involves setting up local environment variables, building AWS infrastructure, creating Docker images, pushing images to AWS, importing data, configuring ECS service, setting up an Application Load Balancer (ALB), registering an SSL certificate, and configuring Route 53 for DNS resolution.
+This project deploys a dynamic web application on Amazon Web Services (AWS) using Docker. The deployment involves setting up local environment variables, building AWS infrastructure, creating Docker images, pushing images to AWS, importing data, configuring ECS service, setting up an Application Load Balancer (ALB), registering an SSL certificate, and configuring Route 53 for DNS resolution.
 
 ## Prerequisites
 1. AWS account
